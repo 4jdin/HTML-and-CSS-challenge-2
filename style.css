@@ -93,7 +93,7 @@ img {
 .attribution { 
     padding-top: 15rem;
     font-size: 15px; 
-    padding-left: 21rem;
+    transform: translate(42.5%, 0%);
 }
 
 .attribution a { 
